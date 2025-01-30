@@ -1,3 +1,17 @@
+# AI-Generated Image Detection & Explanation  
+
+## Overview  
+With the rapid rise of AI-generated content from models like Stable Diffusion, MidJourney, and Adobe Firefly, ensuring content authenticity has become a critical challenge. This project addresses this issue by developing a model that accurately detects AI-generated images and provides human-interpretable explanations for its classifications.  
+
+The system highlights distinguishing artifacts such as texture inconsistencies, unnatural lighting, and anomalous patterns to differentiate between real and synthetic images. This work was developed as part of the **InterIIT Tech Meet - Adobe Challenge**, focusing on AI authenticity and explainability.  
+
+## Features  
+✅ Detects AI-generated images with high accuracy  
+✅ Highlights key artifacts contributing to classification  
+✅ Provides interpretable explanations for decisions  
+✅ Supports various generative models like Stable Diffusion and MidJourney  
+✅ Enhances content authenticity and trust in digital media  
+
 # Directory Structure
 
     adobe/
