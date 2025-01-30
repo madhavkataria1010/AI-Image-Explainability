@@ -1,0 +1,106 @@
+Fri Dec  6 03:24:43 IST 2024
+cn23
+/scratch/data/d22cs051/madhav/Adobe/LLaVA_Finetune
+Fri Dec  6 03:24:43 2024       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.154.05             Driver Version: 535.154.05   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  NVIDIA A30                     On  | 00000000:81:00.0 Off |                    0 |
+| N/A   32C    P0              28W / 165W |      0MiB / 24576MiB |      0%      Default |
+|                                         |                      |             Disabled |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+Processing image 1/300: 100.png
+Processing image 2/300: 101.png
+Processing image 3/300: 102.png
+Processing image 4/300: 103.png
+Processing image 5/300: 104.png
+Processing image 6/300: 105.png
+Processing image 7/300: 106.png
+Processing image 8/300: 107.png
+Processing image 9/300: 108.png
+Processing image 10/300: 109.png
+Processing image 11/300: 10.png
+Processing image 12/300: 110.png
+Processing image 13/300: 111.png
+Processing image 14/300: 112.png
+Processing image 15/300: 113.png
+Processing image 16/300: 114.png
+Processing image 17/300: 115.png
+Processing image 18/300: 116.png
+Processing image 19/300: 117.png
+Processing image 20/300: 118.png
+Processing image 21/300: 119.png
+Processing image 22/300: 11.png
+Processing image 23/300: 120.png
+Processing image 24/300: 121.png
+Processing image 25/300: 122.png
+Processing image 26/300: 123.png
+Processing image 27/300: 124.png
+Processing image 28/300: 125.png
+Processing image 29/300: 126.png
+Processing image 30/300: 127.png
+Processing image 31/300: 128.png
+Processing image 32/300: 129.png
+Processing image 33/300: 12.png
+Processing image 34/300: 130.png
+Processing image 35/300: 131.png
+Processing image 36/300: 132.png
+Processing image 37/300: 133.png
+Processing image 38/300: 134.png
+Processing image 39/300: 135.png
+Processing image 40/300: 136.png
+Processing image 41/300: 137.png
+Processing image 42/300: 138.png
+Processing image 43/300: 139.png
+Processing image 44/300: 13.png
+Processing image 45/300: 140.png
+Processing image 46/300: 141.png
+Processing image 47/300: 142.png
+Processing image 48/300: 143.png
+Processing image 49/300: 144.png
+Processing image 50/300: 145.png
+Processing image 51/300: 146.png
+Processing image 52/300: 147.png
+Processing image 53/300: 148.png
+Processing image 54/300: 149.png
+Processing image 55/300: 14.png
+Processing image 56/300: 150.png
+Processing image 57/300: 151.png
+Processing image 58/300: 152.png
+Processing image 59/300: 153.png
+Processing image 60/300: 154.png
+Processing image 61/300: 155.png
+Processing image 62/300: 156.png
+Processing image 63/300: 157.png
+Processing image 64/300: 158.png
+Processing image 65/300: 159.png
+Processing image 66/300: 15.png
+Processing image 67/300: 160.png
+Processing image 68/300: 161.png
+Processing image 69/300: 162.png
+Processing image 70/300: 163.png
+Processing image 71/300: 164.png
+Processing image 72/300: 165.png
+Processing image 73/300: 166.png
+Processing image 74/300: 167.png
+Processing image 75/300: 168.png
+Processing image 76/300: 169.png
+Processing image 77/300: 16.png
+Processing image 78/300: 170.png
+Processing image 79/300: 171.png
+Processing image 80/300: 172.png
+Processing image 81/300: 173.png
+Processing image 82/300: 174.png
+slurmstepd: error: *** JOB 59279 ON cn23 CANCELLED AT 2024-12-06T03:52:50 ***

@@ -1,0 +1,12 @@
+name: openai-project
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - tqdm
+  - openai
+  - python-dotenv
+  - pip
+  - pip:
+      - pybase64

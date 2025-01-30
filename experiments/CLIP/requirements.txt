@@ -1,0 +1,9 @@
+tqdm
+scikit-learn
+pillow
+pandas
+torch
+torchvision
+timm>=0.9.10
+huggingface-hub>=0.23.0
+open_clip_torch

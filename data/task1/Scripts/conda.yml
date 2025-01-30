@@ -1,0 +1,19 @@
+name: yolo_torch_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - opencv
+  - numpy
+  - tqdm
+  - albumentations
+  - pillow
+  - timm
+  - pip:
+      - ultralytics
+      - torch==2.5.1
+      - torchao==0.6.1
+      - torchaudio==2.5.1
+      - torchvision==0.20.1
